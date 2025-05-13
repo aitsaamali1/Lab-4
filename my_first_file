@@ -1,1 +1,2 @@
 cout << "Addition is " << (a + b); 
+cout << "Subtraction is " << (a - b);
