@@ -1,0 +1,1 @@
+cout << "Addition is " << (a + b); 
